@@ -3,4 +3,16 @@ In this project, I made a simple Music player using <b>python2</b> and I have us
 
 ## The Requirements
 ### Pygame
-~ Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+~ you need to instal Pygame. Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
+
+## Installation process
+```
+$ sudo apt-get update
+$ sudo apt-get install python-pygame
+```
+If it not work then follow next command
+```
+$ sudo apt install libsdl2-dev libfreetype6-dev libsdl2-mixer-dev libsdl2-image-dev libsdl2-ttf-dev libjpeg-dev libpng-dev libportmidi-dev
+```
+
+If you are using Linux based OS, open your terminal and navigate to the directory where `emoji_json.py` file is located. Now, you can run the game by using the following command.
