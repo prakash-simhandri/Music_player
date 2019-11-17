@@ -15,4 +15,9 @@ If it not work then follow next command
 $ sudo apt install libsdl2-dev libfreetype6-dev libsdl2-mixer-dev libsdl2-image-dev libsdl2-ttf-dev libjpeg-dev libpng-dev libportmidi-dev
 ```
 
-If you are using Linux based OS, open your terminal and navigate to the directory where `emoji_json.py` file is located. Now, you can run the game by using the following command.
+If you are using Linux based OS, open your terminal and navigate to the directory where `M_player.py`,`emoji_json.py` files is located. Now, you can run the game by using the following command.
+
+```
+python M_player.py
+```
+# Happy coding :)
